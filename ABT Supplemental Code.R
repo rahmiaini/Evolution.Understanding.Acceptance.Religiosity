@@ -567,9 +567,8 @@ ggplot(data.long, aes(x = key, fill = factor(value))) +
   scale_fill_grey(start = 0, end = 0.9) +
   theme_minimal()
 
-#test4
-#test5
-#test6
+#testa
+#testb
 
 
 
